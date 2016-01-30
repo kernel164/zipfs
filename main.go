@@ -10,8 +10,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"bazil.org/fuse"
-	"bazil.org/fuse/fs"
+	"github.com/bazil/fuse"
+	"github.com/bazil/fuse/fs"
 	"golang.org/x/net/context"
 )
 
